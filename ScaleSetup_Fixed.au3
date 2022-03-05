@@ -6,7 +6,7 @@ ScaleInstall()
 Func ScaleInstall()
     ; Change the username and password to the appropriate values for your system.
     Local $sUserName = "administrator"
-    Local $sPassword = "tiful@net1"
+    Local $sPassword = "mypassword"
     Local $ComputerName = @ComputerName
     Local $FilePath = "d:\install\Weight\Megalen_scale.exe"
 
